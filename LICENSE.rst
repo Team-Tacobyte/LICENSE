@@ -1,9 +1,8 @@
-Tacobyte License 
+Tacobyte Official License.
 
-Copyright 2021 **Tacobyte**
-
-TacoByte Open-Source License 
-- You can not copy this repository and say you own this
-- You can only copy and edit this repository for a feature request/fix/or contributing
-- If you are going to use this repository as a template **YOU** must give credit to TacoByte
-- You may **NOT** remove any **TYPE** of credit from the repository
+Copyright 2021 TacoByte
+TacoByte Open Source License.
+Plagiarism of any projects from the TacoByte Community will lead to legal conflict.
+Purging any project's credit or information will lead to legal conflicts.
+The aforementioned excludes distribution of the projects that contain credit towards the original project. Meaning you are allowed to request/fix/contribute.
+Usage of repositories are templates that must include a credit towards the original project.
