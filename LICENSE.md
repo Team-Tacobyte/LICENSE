@@ -1,7 +1,7 @@
 # Tacobyte Official License.
 ## Copyright 2021 TacoByte
-- TacoByte Open Source License.
-- Plagiarism of any projects from the TacoByte Community will lead to legal conflict.
-- Purging any project's credit or information will lead to legal conflicts.
-- The aforementioned excludes distribution of the projects that contain credit towards the original project. Meaning you are allowed to request/fix/contribute.
-- Usage of repositories are templates that must include a credit towards the original project.
+**TacoByte** Open Source License.
+Plagiarism of any projects from the TacoByte Community will lead to legal conflict.
+Purging any project's credit or information will lead to legal conflicts.
+The aforementioned excludes distribution of the projects that contain credit towards the original project. Meaning you are allowed to request/fix/contribute.
+Usage of repositories are templates that must include a credit towards the original project.
