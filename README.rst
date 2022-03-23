@@ -1,2 +1,0 @@
-- LICENSE
-Official Tacobyte License
